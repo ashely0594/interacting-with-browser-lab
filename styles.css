@@ -1,0 +1,43 @@
+body {
+    background: olive;
+    color: beige;
+    line-height: 30px;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 25px 50px;
+  }
+  
+  code {
+    color: beige;
+    background: beige;
+    padding: 2px 10px;
+    border-radius: 10px;
+  }
+  
+  td {
+    border: 1px solid beige;
+    padding: 15px;
+  }
+  
+  button {
+    font-size: 20px;
+    padding: 5px 10px;
+    border: 1px solid beige;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  button:hover {
+    border-color: #09507c;
+    background-color: #deedf2;
+  }
+
+.message {
+color: beige;
+border: 2px solid brown;
+margin: auto;
+padding: 20px;
+width: 400px;
+text-align: center;
+font-weight: bold;
+
+  }
